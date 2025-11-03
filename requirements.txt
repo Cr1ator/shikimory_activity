@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+beautifulsoup4
+lxml
+sqlalchemy
+aiosqlite
+python-dotenv
+apscheduler
